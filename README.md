@@ -1,3 +1,3 @@
-urlshortener-encoder-rs
+urlshortener-codec-rs
 ====
-> Encoding and decoding of short url ids for url shortener applications
+> Urlshortener encode/decode
